@@ -1,0 +1,14 @@
+
+canvas{
+	display: block;
+	margin: auto; /* displayとmarginでキャンバスをセンタリングする*/
+	border: 1px solid black;　/* 黒色の実線を1pxで書く*/
+}
+
+#canvas00{
+	background-color: rgba(180,200,250,0.3);
+}
+
+
+
+
